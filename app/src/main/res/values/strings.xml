@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TechnicalExam</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="input_task_hint">Task details here</string>
+    <string name="fave_quote">Lost time is never found again</string>
+</resources>
